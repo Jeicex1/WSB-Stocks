@@ -1,5 +1,6 @@
 import sys;
-sys.path.append("path to where praw installed")
+#uncomment bottom line if import praw doesnt work and you installed praw, change the path to the path you get from pip search praw
+#sys.path.append("path to where praw installed")
 import time
 import praw
 import csv
