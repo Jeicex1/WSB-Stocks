@@ -1,5 +1,5 @@
 import sys;
-#uncomment bottom line if import praw doesnt work and you installed praw, change the path to the path you get from pip search praw
+#uncomment bottom line if import praw doesnt work and you installed praw, change the path to the path you get from pip show praw
 #sys.path.append("path to where praw installed")
 import time
 import praw
