@@ -1,5 +1,5 @@
 import sys;
-sys.path.append("d:\\anaconda\\lib\\site-packages")
+sys.path.append("path to where praw installed")
 import time
 import praw
 import csv
